@@ -105,3 +105,5 @@ venv.bak/
 
 # geckodriver
 geckodriver
+.vscode
+*Env
